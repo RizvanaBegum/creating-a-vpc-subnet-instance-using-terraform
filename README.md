@@ -1,5 +1,5 @@
 
-# Terraform AWS VPC, Subnet, and EC2 Instance Setup
+# Terraform-Driven AWS VPC, Subnet, and EC2 Instance Setup
 
 This Terraform script automates the process of creating a Virtual Private Cloud (VPC) in AWS, setting up a subnet, and launching an EC2 instance within the VPC.
 
